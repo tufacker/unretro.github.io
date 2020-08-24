@@ -4,3 +4,5 @@ relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-slate
+include:
+  - index.md
