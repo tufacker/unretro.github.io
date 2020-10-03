@@ -1,0 +1,3 @@
+* [Tubbutec](https://tubbutec.de/products/) - Mods for the Juno 6, SH-101, Mono/Poly, Poly 6, and the uniPulse which is a universal ancient drum machine mod.
+* [http://djtechtools.com/2011/10/16/how-to-create-a-professional-dj-booth-from-ikea-parts/](http://djtechtools.com/2011/10/16/how-to-create-a-professional-dj-booth-from-ikea-parts/)
+* [https://www.youtube.com/watch?v=TaJHy8MTfGc](https://www.youtube.com/watch?v=TaJHy8MTfGc) - Build IKEA gear stands!
